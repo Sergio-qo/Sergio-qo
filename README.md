@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# Hello World ⚡
+### My name is Sergio Quesada and now I am working for the state. I use part of my free time to improve my skills.
+### Those skills are:
+- Languages
+  - English
+  - Valencian
+- Coding
+  - HTML
+  - Javascript
+  - Python
+  - MySql
 <!--
 **Sergio-qo/Sergio-qo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
