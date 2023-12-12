@@ -1,10 +1,10 @@
 # Hello World ⚡
 ### My name is Sergio Quesada and now I am working for the state. I use part of my free time to improve my skills.
 ### Those skills are:
-- Languages
+- 📚 Languages 📚
   - English
   - Valencian
-- Coding
+- 👨‍💻 Coding 👨‍💻
   - HTML
   - Javascript
   - Python
